@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Việt Nam đẩy mạnh chuyển đổi số",
+    "content": "Bộ Giáo dục và Đào tạo tiếp tục triển khai nhiều giải pháp nhằm thúc đẩy chuyển đổi số trong các trường học trên cả nước.",
+    "author": "Nguyễn Văn An",
+    "category": "Giáo dục"
+  },
+  {
+    "id": 2,
+    "title": "Đội tuyển Việt Nam thắng đậm trong trận giao hữu",
+    "content": "Đội tuyển Việt Nam đã giành chiến thắng 3-0 trong trận giao hữu quốc tế diễn ra tối qua.",
+    "author": "Trần Minh Quân",
+    "category": "Thể thao"
+  },
+  {
+    "id": 3,
+    "title": "Giá xăng dầu tiếp tục giảm nhẹ",
+    "content": "Theo thông báo mới nhất từ liên Bộ Công Thương - Tài chính, giá xăng dầu đã được điều chỉnh giảm từ chiều nay.",
+    "author": "Lê Hoàng Nam",
+    "category": "Kinh tế"
+  },
+  {
+    "id": 4,
+    "title": "Mưa lớn gây ngập nhiều tuyến đường tại TP.HCM",
+    "content": "Cơn mưa kéo dài hơn 2 giờ khiến nhiều khu vực trung tâm TP.HCM rơi vào tình trạng ngập úng.",
+    "author": "Phạm Thu Hà",
+    "category": "Thời sự"
+  },
+  {
+    "id": 5,
+    "title": "Nhiều du khách lựa chọn du lịch biển dịp hè",
+    "content": "Các địa điểm du lịch biển như Đà Nẵng, Nha Trang thu hút lượng lớn khách du lịch trong tháng này.",
+    "author": "Đỗ Khánh Linh",
+    "category": "Du lịch"
+  },
+  {
+    "id": 6,
+    "title": "Apple ra mắt dòng iPhone mới",
+    "content": "Apple vừa chính thức giới thiệu dòng iPhone mới với nhiều cải tiến về camera và hiệu năng.",
+    "author": "Nguyễn Quốc Bảo",
+    "category": "Công nghệ"
+  },
+  {
+    "id": 7,
+    "title": "Nghệ sĩ trẻ gây chú ý với album đầu tay",
+    "content": "Album đầu tay của ca sĩ trẻ nhanh chóng lọt top xu hướng âm nhạc chỉ sau vài ngày phát hành.",
+    "author": "Võ Thanh Tùng",
+    "category": "Giải trí"
+  },
+  {
+    "id": 8,
+    "title": "Tỷ lệ thất nghiệp giảm trong quý II",
+    "content": "Báo cáo mới công bố cho thấy thị trường lao động đang có nhiều tín hiệu tích cực.",
+    "author": "Trịnh Mai Anh",
+    "category": "Kinh tế"
+  },
+  {
+    "id": 9,
+    "title": "Giải marathon quốc tế thu hút hàng nghìn vận động viên",
+    "content": "Sự kiện marathon năm nay có sự tham gia của vận động viên đến từ hơn 20 quốc gia.",
+    "author": "Huỳnh Đức Phát",
+    "category": "Thể thao"
+  },
+  {
+    "id": 10,
+    "title": "Nhiều hoạt động ý nghĩa trong chiến dịch mùa hè xanh",
+    "content": "Sinh viên các trường đại học tham gia hỗ trợ người dân vùng sâu vùng xa trong chiến dịch tình nguyện.",
+    "author": "Bùi Thị Ngọc",
+    "category": "Xã hội"
+  }
+]
